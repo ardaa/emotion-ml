@@ -19,4 +19,4 @@ Train:
 `pythonw train.py -p shape_predictor_68_face_landmarks.dat`
 
 Predict:
-`pythonw predict.py -p shape_predictor_68_face_landmarks.dat -i ./i_am_a_fucking_image.jpg`
+`pythonw predict.py -p shape_predictor_68_face_landmarks.dat -i ./i_am_an_image.jpg`
